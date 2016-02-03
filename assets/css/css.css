@@ -1,0 +1,168 @@
+body{
+
+ background-image: url(../images/concrete_seamless.png);
+
+}
+h1 {font-family:  Times, Times New Roman, serif;}
+
+h2 {
+color: #4aaaa5;
+font-family: , Times, Times New Roman, serif;
+}
+
+ 
+ .myname {
+
+ 	display: block;
+ 	background-color: #4aaaa5;
+color: #ffffff;
+ width: 250px;
+ height: 50px;
+ margin: 0 0000;
+ position: relative;
+ bottom: -40px;
+ left: 100px;
+text-align: center;
+ }
+ 
+
+ 
+
+.footer{
+border-top:  5px ;
+text-align: center;
+background-color: #666666;
+padding: 50px;
+top: -120px;
+clear: both;
+border-top: 10px solid #4aaaa5;
+position: relative;
+color: #ffffff;
+font-family: Arial, Helvetica;
+}
+
+.header ul {
+list-style-type: none;
+overflow : hidden;
+padding : 0;
+margin : 0;
+background-color :  #ffffff;
+
+}
+
+.header li  {
+display : block;
+padding : 10px;
+color : grey;
+text-align : center; 
+text-decoration : none;
+position: relative;
+float: right;
+background-color :  #ffffff
+}
+li :hover:not(.active) {
+background-color : blue;
+}
+
+.sidebar {
+
+width: 270px;
+height: 150px;
+float: right;
+background-color: #ffffff;
+border: 1px solid #dddddd;
+text-align: center;
+color: #4aaaa5;
+float: right;
+display: inline-block;
+bottom: 650px;
+overflow: auto;
+position: relative;
+margin-right: 150px;
+}
+.sidebar .hr {
+	width: 200px;
+	color: grey;
+
+}
+.sidebar-pics {
+	width:50px;
+	height:50px;
+margin-top: 13px;
+}
+
+/* index */
+.container {
+
+	width: 650px;
+	height: 650px;
+margin-left: 100px;
+padding: 0px 10px;
+text-align: justify;
+background-color: #ffffff;
+font-family: Arial, Helvetica;
+}
+
+#me {
+	float: left;
+	height: 100px;
+	width: 200px; }
+/* contact */
+input
+
+{ width : 450px;
+padding: 10px;
+font-family : arial;
+background-color: #ffffff;
+display : block;
+
+}
+
+.textarea 
+{ width : 75%;
+height: 250px;
+font-family : arial;
+background-color: #ffffff;
+display : block;
+}
+.input button {
+
+	background-color: #4aaaa5;
+width: 75px;
+height: 35px;
+color: #ffffff;
+font-family: Arial, Helvetica;
+}
+/* portfolio */
+
+.table img
+{position: relative;
+	float: right;
+	width: 250px;
+	display: inline-block;
+margin-bottom: 60px;
+padding: 0;
+border: 0;
+
+}
+
+.right
+{
+	
+width: 100px;
+height: 225px;
+position: relative;
+padding-left: 45px;
+right: 165px;
+}
+.left
+{
+	
+	
+width: 100px;
+height: 225px;
+top: 300px;
+left: 125px;
+padding-left: 45px;
+position: relative;
+}
