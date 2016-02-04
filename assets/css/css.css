@@ -3,7 +3,9 @@ body{
  background-image: url(../images/concrete_seamless.png);
 
 }
-h1 {font-family:  Times, Times New Roman, serif;}
+h1 {font-family:  Times, Times New Roman, serif;
+	text-shadow: 2px 2px #ffffff;
+}
 
 h2 {
 color: #4aaaa5;
@@ -12,6 +14,7 @@ font-family: , Times, Times New Roman, serif;
 
  
  .myname {
+    box-shadow: 10px 10px 5px #888888;
 
  	display: block;
  	background-color: #4aaaa5;
